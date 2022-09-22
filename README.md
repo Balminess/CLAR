@@ -1,2 +1,2 @@
-# CAR
-Complementary cloud API recommendations
+# CLAR
+Complementary long-tail cloud API recommendations
